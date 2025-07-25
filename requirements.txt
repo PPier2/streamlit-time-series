@@ -1,0 +1,8 @@
+streamlit
+xgboost
+pandas
+numpy
+scikit-learn
+joblib
+openpyxl
+nest_asyncio
